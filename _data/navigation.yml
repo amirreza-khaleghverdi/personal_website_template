@@ -1,11 +1,5 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
-  - title: "Courses"
-    url: /courses/
-  - title: "Links"
-    url: /links/
   - title: "shahrud"
     url: /shahrud/
   - title: "Blog"
