@@ -10,12 +10,12 @@ title: در مورد خودم
 
 
 
-![alt text](../assets/images/school.jpg "last day in school")
+![school](../assets/images/school.jpg "last day in school")
 
 ---
 **آخرین روز دبیرستان**
 
-![alt text](../assets/images/bet.mp4 "bet")
+![bet](../assets/images/bet.mp4 "bet")
 
 ---
 **شرط بندی رو یو اف سی و گرفتن جایزش در جوب کنار مدرسه**
