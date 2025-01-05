@@ -7,7 +7,7 @@ tags: [shahrud]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/sc.png
-    image_path: /assets/images/sc.png
+  - url: /assets/images/4.jpg
+    image_path: /assets/images/4.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
