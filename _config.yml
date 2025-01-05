@@ -237,8 +237,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
 # Defaults
 defaults:
   # _posts
