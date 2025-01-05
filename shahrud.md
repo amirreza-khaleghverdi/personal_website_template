@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /shahrud/
-title: shahrud
-tags: [shahrud]
+permalink: /gallery/
+title: Gallery
+tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
